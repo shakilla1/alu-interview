@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""
+Rain water trapping problem
+"""
+
+
 def rain(walls):
     if not walls:
         return 0
